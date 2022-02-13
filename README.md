@@ -2,4 +2,5 @@
 
 
 All the stuff from Programming in python 2(2021), second Semster of Artificial intelligence.<br>
-The tasks are in the Assigments sheets.
+The tasks are in the Assigments sheets.<br>
+there are also some parts missing because of copyright.
