@@ -1,5 +1,5 @@
 # Programming_in_python_2
 
 
-All the stuff from Programming in python 2, second Semster of Artificial intelligence.//
+All the stuff from Programming in python 2, second Semster of Artificial intelligence.<br>
 The tasks are in the Assigments sheets.
