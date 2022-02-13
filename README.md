@@ -2,3 +2,4 @@
 
 
 All the stuff from Programming in python 2, second Semster of Artificial intelligence
+The tasks are in the Assigments sheets.
